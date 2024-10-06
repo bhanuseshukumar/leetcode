@@ -1,0 +1,3 @@
+ to rest far right bit  n&(n-1)
+ bit masks are usful to carry states in back tracking or to maintain even/odd parity i.e you are not interesed in exact count but only it's 
+ odd even nature
